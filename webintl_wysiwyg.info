@@ -1,7 +1,7 @@
 name = "WebIntl WYSIWYG"
 description = "A WYSIWYG editor and configuration for Drupal sites."
 core = "7.x"
-package = "Features"
+package = "Web International"
 version = "7.x-1.0-dev"
 project = "webintl_wysiwyg"
 dependencies[] = "ckeditor_link"
