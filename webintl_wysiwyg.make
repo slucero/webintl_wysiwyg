@@ -12,6 +12,13 @@ projects[pathologic][subdir] = "contrib"
 
 projects[wysiwyg][type] = "module"
 projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg][version] = "2.1"
+
+; Patches ======================================================================
+
+; Make WYSIWYG profiles exportable to features
+; https://drupal.org/node/624018
+projects[wysiwyg][patch][624018] = "https://drupal.org/files/0001-feature.inc-from-624018-211-drush_make-7.x-2.1.patch"
 
 ; Libraries ====================================================================
 
