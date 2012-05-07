@@ -71,7 +71,7 @@ function webintl_wysiwyg_wysiwyg_default_profiles() {
       'apply_source_formatting' => 0,
       'paste_auto_cleanup_on_paste' => 1,
       'block_formats' => 'p,h2,h3,h4,h5,h6,div,pre',
-      'css_setting' => 'theme',
+      'css_setting' => 'none',
       'css_path' => '',
       'css_classes' => '',
       'buttonorder' => 'Source,separator,Cut,Copy,PasteText,PasteFromWord,separator,Undo,Redo,separator,Format,separator,Bold,Italic,Underline,separator,JustifyLeft,JustifyCenter,JustifyRight,separator,BulletedList,NumberedList,separator,Outdent,Indent,separator,Link,Unlink,Anchor,separator,Image,Blockquote,Table,HorizontalRule,RemoveFormat,imce,break,ShowBlocks',
