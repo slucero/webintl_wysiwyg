@@ -76,7 +76,6 @@ function webintl_wysiwyg_wysiwyg_default_profiles() {
       'css_classes' => '',
       'buttonorder' => 'Source,separator,Cut,Copy,PasteText,PasteFromWord,separator,Undo,Redo,separator,Format,separator,Bold,Italic,Underline,separator,JustifyLeft,JustifyCenter,JustifyRight,separator,BulletedList,NumberedList,separator,Outdent,Indent,separator,Link,Unlink,Anchor,separator,Image,Blockquote,Table,HorizontalRule,RemoveFormat,imce,break,ShowBlocks',
     ),
-    'rdf_mapping' => array(),
   );
 
   return $profiles;
